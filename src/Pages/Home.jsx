@@ -1,7 +1,7 @@
-import HeroSection from "@/components/home/HeroSection.jsx";
-import IntroSection from "@/components/home/IntroSection.jsx";
-import ServicesPreview from "@/components/home/ServicesPreview.jsx";
-import CTASection from "@/components/home/CTASection.jsx";
+import HeroSection from "@/components/Home/HeroSection.jsx";
+import IntroSection from "@/components/Home/IntroSection.jsx";
+import ServicesPreview from "@/components/Home/ServicesPreview.jsx";
+import CTASection from "@/components/Home/CTASection.jsx";
 
 export default function Home() {
   return (
