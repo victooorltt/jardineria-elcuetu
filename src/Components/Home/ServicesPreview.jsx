@@ -1,4 +1,4 @@
-import AnimatedSection from "@/components/ui/AnimatedSection";
+import AnimatedSection from "@/components/ui/AnimatedSection.jsx";
 import { Link } from "react-router-dom";
 import { createPageUrl } from "../../utils";
 import { Scissors, TreeDeciduous, Droplets, Axe } from "lucide-react";

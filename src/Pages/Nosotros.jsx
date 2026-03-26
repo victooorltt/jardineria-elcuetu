@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import AnimatedSection from "@/components/ui/AnimatedSection";
+import AnimatedSection from "@/components/ui/AnimatedSection.jsx";
 import { Link } from "react-router-dom";
 import { createPageUrl } from "../utils";
 import { Heart, Shield, Users, Leaf, ArrowRight } from "lucide-react";
