@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import AnimatedSection from "@/Components/ui/AnimatedSection.jsx";
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
-import { Button } from "@/Components/ui/button.jsx";
+import { Button } from "@/Components/ui/Button.jsx";
 import { Input } from "@/Components/ui/input.jsx";
 import { Textarea } from "@/Components/ui/textarea.jsx";
 import { 
