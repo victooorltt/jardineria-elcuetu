@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import AnimatedSection from "@/components/ui/AnimatedSection.jsx";
+import AnimatedSection from "@/Components/ui/AnimatedSection.jsx";
 import { Link } from "react-router-dom";
 import { createPageUrl } from "../../utils";
 import { Phone, Mail, MapPin } from "lucide-react";

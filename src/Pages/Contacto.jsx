@@ -1,17 +1,17 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import AnimatedSection from "@/components/ui/AnimatedSection.jsx";
+import AnimatedSection from "@/Components/ui/AnimatedSection.jsx";
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
-import { Button } from "@/components/ui/button.jsx";
-import { Input } from "@/components/ui/input.jsx";
-import { Textarea } from "@/components/ui/textarea.jsx";
+import { Button } from "@/Components/ui/button.jsx";
+import { Input } from "@/Components/ui/input.jsx";
+import { Textarea } from "@/Components/ui/textarea.jsx";
 import { 
   Select, 
   SelectContent, 
   SelectItem, 
   SelectTrigger, 
   SelectValue 
-} from "@/components/ui/select.jsx";
+} from "@/Components/ui/select.jsx";
 
 const contactInfo = [
   {
